@@ -11,3 +11,7 @@ abc@abc.com
 $ node esbuild-esnext.js
 undefined
 ```
+
+## Reference
+
+- [ts playground](https://www.typescriptlang.org/play?target=99&ts=4.9.4#code/MYGwhgzhAECiB2AXAlogngWQPYBMCmIAPACoB80A3gFDS3R5KpoBc0xA3DXcFvBIgCcArsERYBACgYp0rYgEpKXOnUQALZBAB00ptAC89Ruk4qV6zVrAAHayDQIZaKcbTzTdAL5Vl0a0IAjEGRgaBs7B1cXJzl5VgA3LGQcJTM6AHkAgCs8USsoZABzeAkLCAAaIyd3X29vH2QkPAEAMzBgPGgAVQhmxz1qFWTWeCEAWwDmj1o8MbBkEFZ+AUbCznrQSBge5ux8EHoAD0QGHBh+9D2CQh2BC7RyQbph6FGJqd9Z+cXoZdWPXw8PiCERiSS6WTdXp3VyKJ4qCBCazNaJMGoqOo+IH8aBCaEGV54ADuUN2uAIEgoLwAjJUvgtWAByMABYAAARZwC0PDGjM8NWxWBAeC0ICwhQkeOaOjmC3kVCAA)
