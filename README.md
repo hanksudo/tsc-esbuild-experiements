@@ -1,3 +1,5 @@
+Somehow this code behave different result on `tsc` and `esbuild`.
+
 ```bash
 $ node tsc-es2015.js
 abc@abc.com
@@ -11,6 +13,11 @@ abc@abc.com
 $ node esbuild-esnext.js
 undefined
 ```
+
+## Solution
+
+- set `useDefineForClassFields` to false in tsconfig.json will solve the esbuild with esnext issue.
+- [TypeScript: TSConfig Reference - useDefineForClassFields](https://www.typescriptlang.org/tsconfig/)
 
 ## Reference
 
